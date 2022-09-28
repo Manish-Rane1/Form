@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    background-color: orange;
+    color: blue;
+}
+.body{
+    text-align: center;
+    background-color: lightgreen;
+    color: red;
+}
+#firstbox{
+    border-width: 1px;
+    border-style: solid;
+}
+#secondbox{
+    border-width: 1px;
+    border-style: solid;
+}
+#submit{
+    background-color: aqua;
+    color:blue;
+}
